@@ -1,0 +1,32 @@
+.tittle-main{
+color:#F5FFFA;}
+
+body {
+
+text-align:center;
+background-color:#E0FFFF;
+color: #F5FFFA;
+font-family:Montserrat;
+}
+
+.texto-main {
+text-align: justify;
+}
+
+
+div{
+
+margin-top:100px;
+position: absolute;
+top: 15%;
+padding: 15px;
+left: 50%;
+transform: translate(-50%, -50%);
+
+background-color:#00CED1;
+border-radius: 10px;
+
+
+li {
+text-align: justify;
+}
